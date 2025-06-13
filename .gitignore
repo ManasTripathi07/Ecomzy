@@ -1,0 +1,12 @@
+# Compiled files
+*.exe
+*.dll
+*.so
+*.jar
+# Node.js
+node_modules/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyde
